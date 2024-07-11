@@ -28,7 +28,7 @@ const Nav = () => {
       </div>
       <ul className='nav-list'>
         <li>
-          <select onChange={ (e) => i18n.changeLanguage(e.target.value)} className='nav-select'>
+          <select defaultValue={data.i18n.language} onChange={ (e) => i18n.changeLanguage(e.target.value)} className='nav-select'>
             <option value="en">EN</option>
             <option value="ru">RU</option>
             <option value="uz">UZ</option>

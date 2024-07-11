@@ -1,0 +1,47 @@
+.container{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.nav-logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.nav-wrapper{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    padding: 20px 0px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-list{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    list-style: none;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.nav-select{
+    border: none;
+    background-color: transparent;
+    font-weight: 500;
+    font-family: poppins;
+    font-size: 18px;
+    color: #000000;
+}
+
+a{
+    text-decoration: none;
+    color: #424242;
+}
+
+a:hover{
+    color: #5A47AB;
+}

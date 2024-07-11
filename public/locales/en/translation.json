@@ -1,0 +1,18 @@
+{
+    "home": "HOME",
+    "portfolio": "PORTFOLIO",
+    "store": "STORE",
+    "about": "ABOUT ME",
+    "contact": "CONTACT",
+    "title": "Blog Posts",
+    "description": "I think so, this is it.",
+    "info": "Design begins after I begin to think about how to present an experience most successfully, whether a button I put in can solve a problem. The only point in design is not ui design, if the user does not have a good experience at the end of the product, the design will be considered unsuccessful in my opinion.",
+    "all": "All",
+    "ui": "UI design",
+    "ux": "UX design",
+    "product": "Product design",
+    "articles": "Articles",
+    "tutorial": "Tutorial",
+    "news": "News"
+
+ }

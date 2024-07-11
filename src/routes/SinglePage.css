@@ -1,0 +1,50 @@
+.container{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.singlePage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 80px;
+}
+.singlePage__img{
+       width: 100%;
+}
+
+.singlePage__contant{
+    width: 100%;
+    margin-top: 100px;
+}
+
+.singlePage__contant>h1{
+     font-size: 42px;
+     line-height: 50px;
+     color: #3A0CA3;
+     font-weight: 700;
+}
+
+.singlePage__contant>h2{
+    font-size: 36px;
+     line-height: 50px;
+     color: #3A0CA3;
+     font-weight: 700;
+}
+
+.singlePage__contant>h3{
+    font-size: 24px;
+    line-height: 50px;
+    color: #3A0CA3;
+    font-weight: 700;
+}
+
+.singlePage__description{
+    font-size: 24px;
+     line-height: 29px;
+     color: #424242;
+     font-weight: 500;
+     margin-top: 70px;
+}
